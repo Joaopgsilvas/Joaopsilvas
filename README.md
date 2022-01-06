@@ -9,7 +9,7 @@ and stay with my family and friends.
 
 # 🖥️Personal and professional goals
 
-My personal goal is to help people solve their problems and help the company I work for to achieve its goals, growing as a person and as a professional in the area of back-end development
+My personal goal is to help people solve their problems and help the company i work for to achieve its goals, growing as a person and as a professional in the area of back-end development
 
 # 🤟what technologies do i use?
 
