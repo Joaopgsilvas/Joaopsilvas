@@ -1,11 +1,10 @@
 #    Hi there, i'm João Pedro 🙋‍♂️✌️
-Currently, a System Analysis and Development student at @Estacio.br
+Seeking to become a data analyst and currently, a System Analysis and Development student at @Estacio.br
 
 
 
 #   😄 Quick things and facts about me 
-🤙Currently excited about data science, data automation, specializing in Python, starting to learn api and learning Django.I have a good connection with all people. In my spare time I like to play different things: play and watch soccer, play games,follow the financial market
-and stay with my family and friends.
+🤙I aim to become a data analyst. My goal is to develop myself in this field and enhance my skills in tools such as SQL, Excel, and Python for data analysis. I also seek to specialize in data visualization using Tableau and Power BI to generate meaningful insights.
 
 # 🖥️Personal and professional goals
 
