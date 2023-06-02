@@ -29,5 +29,6 @@ My personal goal is to help people solve their problems and assist the company I
 Email: Joaopgsilva.dev@hotmail.com 
 <br>
 <br>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-pedro-gomes-da-silva-bb157922a/)]([https://www.linkedin.com/seu-perfil](https://www.linkedin.com/in/jo%C3%A3o-pedro-gomes-da-silva-bb157922a/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/n/joão-pedro-gomes-da-silva-bb157922a/)](https://www.linkedin.com/n/joão-pedro-gomes-da-silva-bb157922a/)
+
 
