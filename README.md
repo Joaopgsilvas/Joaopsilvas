@@ -8,7 +8,7 @@ Seeking to become a data analyst and currently, a System Analysis and Developmen
 
 # 🖥️Personal and professional goals
 
-My personal goal is to help people solve their problems and assist the company I work for in achieving its goals, while growing as an individual and a professional in the field of data analysis
+My personal goal is to help people solve their problems and assist the company I work for in achieving its goals, while growing as an individual and a professional in the field of data analysis.
 
 # 🤟what technologies do i use?
 
